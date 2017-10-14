@@ -1,7 +1,5 @@
----
-title: "October 14th Short Talks"
-output: github_document
----
+# [October 14th Short Talks](https://www.meetup.com/ChicagoRUG/events/243491023/)
+
 
 Talks on Machine Learning, Hypothesis Testing & Type 2 Errors, Reproducible Research, Parallel Computing, and Leaflet Maps in Shiny. 
 
